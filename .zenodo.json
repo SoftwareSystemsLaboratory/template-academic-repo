@@ -1,1 +1,39 @@
-
+{
+    "description": "",
+    "license": "",
+    "title": "",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+        {
+            "affiliation": "",
+            "name": "",
+            "orcid": ""
+        },
+    ],
+    "access_right": "open"
+}
