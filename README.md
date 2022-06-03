@@ -1,2 +1,3 @@
-# template-academic-repo
-This is our template for academic software repositories
+# Template Academic Repo
+
+> This is our (Software and Systems Laboratory) template for academic software repositories
